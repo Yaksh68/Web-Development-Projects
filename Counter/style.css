@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+
+.col-md-6{
+    border: 7px solid black;
+    margin-top: 150px !important;
+    padding: 20px;
+}
+.btn{
+    margin: 20px !important;
+    border: 2px solid black;
+}
+
+h1{
+    font-weight:  bolder  !important;
+    margin: 20px;
+}
+.yaksh{
+    text-align: center;
+}
